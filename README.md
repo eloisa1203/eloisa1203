@@ -1,10 +1,5 @@
 # Sobre mim
-- Hi, I'm eloisa1203
-- meu emais de contato é eloisa.dutra.moura@escola.pr.gov.br
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-eloisa1203/eloisa1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá, meu nome é elouuuuuu
+- meu email de contato é [email](eloisa.dutra.moura@escola.pr.gov.br)
+- 💞️ Estou interessada em parender progamar novas linguagens
+- 📫 Estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratch
